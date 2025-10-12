@@ -1,0 +1,4 @@
+repository "Game Engine 2 - 2d Project - Muhammed Usame Toktas/MuhammedUsameToktas@18966924783221@cloud"
+  path "/"
+    br "/main"
+    co "/main"
